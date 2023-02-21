@@ -1,0 +1,1 @@
+To implement a basic function of Code Division Multiple Access (CDMA) to test the orthogonality and autocorrelation of a code to be used for CDMA operation. Above is an application that is based on the CDMA concept.
