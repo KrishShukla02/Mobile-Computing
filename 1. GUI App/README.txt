@@ -1,0 +1,1 @@
+This project contains the simple application that uses the GUI Components.The Application is developed using Android Studio.
